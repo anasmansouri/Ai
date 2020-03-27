@@ -1,1 +1,1 @@
-# Ai
+# Machine learning project
